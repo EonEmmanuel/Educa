@@ -162,7 +162,7 @@
       color:grey;
       display:flex;
       gap: 50px;
-      justify-content: center;
+      justify-content: flex-start;
      /* align-items: center;*/
       padding:15px 20px;
       min-width: 100%;
