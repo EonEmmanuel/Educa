@@ -130,11 +130,59 @@
 
   
   /********************Mr EonEmmanuel***************************/
+  .footer .logo {
+    font: bolder;
+    font-size: 1.5rem;
+    color:orange;
   
+  }
+  
+  .footer ul li a{
+    text-decoration: none;
+    color:grey;
     
+  }
+  .footer ul li a:hover{
+    color:orange;
   
+  }
   
+  .footer{
+    color :black;
+  }
+  .navi ul li {
+    list-style-type: none;
+  }
+  .navi li a {
+    text-decoration: none;
+  }
   
+  .footer {
+      background-color:darkslategray;
+      color:grey;
+      display:flex;
+      gap: 50px;
+      justify-content: center;
+     /* align-items: center;*/
+      padding:15px 20px;
+      min-width: 100%;
+  }
+  .navi ul li a {
+    display:flex;
+    flex-direction: row;
+    padding: 10px;
+    color:grey;
+  }
+  .about a{
+   text-decoration: none;
+   color:black; 
+  }
+  .about a:hover{
+    color:orange;
+  }
+  footer {
+     background-color:darkslategray;
+     color:grey
   
-  
+  }
   /**************** Mr EonEmmanuel*******************************/
