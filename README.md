@@ -1,6 +1,8 @@
 
 # E-learning Platform
 
+![E-Learning deployed page screenshot](images/deployedwebpage.png)
+
 # Introduction
 
 ##  Welcome to our E-learning platform. 
@@ -49,9 +51,6 @@ Simply open the index.html <pre>index.html</pre> file in your web browser to vie
 
 To access and use the deployed page, you only need a web browser like Chrome, Firefox, Safari, or Edge. Navigate to the URL, and the Deployed page will load directly in your browser.
 
-### images:
-
-![E-Learning deployed page screenshot](images/deployedwebpage.png)
 
 ## Credits
 
