@@ -67,7 +67,7 @@ This project is licensed under the MIT License. See the LICENSE.md file for more
 ## Features
 
 Navigation Menu: Links to key sections like "Home," "About Us," "Resources," "Explore," and "Sign Up."<br>
-Prominent "Sign Up" Button: Encourages users to create an account.
+Prominent "Sign Up" Button: Encourages users to create an account.<br>
 Team Members: Highlights the individuals behind the platform and their expertise.<br>
 Search Bar: Allows users to search for specific courses or topics.<br>
 Social Media Integration: Includes buttons for sharing the platform on popular social media networks.<br>
@@ -94,7 +94,7 @@ Create a fork of the E-learning platform repository on GitHub.
 ### Submitting Pull Requests:
 
 Push your changes to your forked repository on GitHub.<br><pre>git push</pre>
-Create a pull request from your forked repository to the main branch of the original project.<br>git 
+Create a pull request from your forked repository to the main branch of the original project.<br>
 
 ### Contribution Guidelines:
 
