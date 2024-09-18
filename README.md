@@ -3,7 +3,7 @@
 
 # Introduction
 
-##  Welcome to our e-learning platform. 
+##  Welcome to our E-learning platform. 
 An initiative to make learning easier and comfortable for people by having access to multitudes or several beneficial resources online at their various homes without having to go through stress or hurdles.Feel free to explore all available resources at your disposal as you deem fit.Its all available for free
 
 ##  Mission: 
@@ -51,7 +51,7 @@ To access and use the deployed page, you only need a web browser like Chrome, Fi
 
 ### images:
 
-    ![E-Learning deployed page screenshot](./images/deployedwebpage.png)
+![E-Learning deployed page screenshot](images/deployedwebpage.png)
 
 ## Credits
 
@@ -68,9 +68,8 @@ This project is licensed under the MIT License. See the LICENSE.md file for more
 
 Navigation Menu: Links to key sections like "Home," "About Us," "Resources," "Explore," and "Sign Up."<br>
 Prominent "Sign Up" Button: Encourages users to create an account.<br>
-Team Members: Highlights the individuals behind the platform and their expertise.<br>
+Team Members: Highlights the individuals behind the platform and their social media accounts.<br>
 Search Bar: Allows users to search for specific courses or topics.<br>
-Social Media Integration: Includes buttons for sharing the platform on popular social media networks.<br>
 Copyright Information: Displays copyright information and the year..
 
 ## Contributing
