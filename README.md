@@ -108,4 +108,4 @@ Description: An open-source learning platform designed to provide educators, adm
 
 ### Open edX
 Description: A comprehensive open-source platform for online learning. It is used to create and deliver online courses and is known for its scalability and flexibility.
-[GitHub Open edX](https://github.com/edx/edx-platform)
+[GitHub Open edX](https://github.com/openedx/edx-platform)
